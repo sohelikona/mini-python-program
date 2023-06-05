@@ -1,0 +1,16 @@
+# hello = "Hello World, this is me Kona"
+
+yourName = input("Your name: ")
+country = input("Your country: ")
+yourAge = input("Your age: ")
+fatherProffesion = input("Your father's proffesion: ")
+mothersProffesion = input("Your mother's proffesion: ")
+yourSchool = input("Your school: ")
+yourCollege = input("Your college: ")
+yourCompanyName = input("Your company name: ")
+yourProfession = input("Your Profession: ")
+technologiesYouUse = input("Write down all the technologis you're familiar with: ")
+yourFavouriteFood = input("Your favorite food: ")
+yourCatsName = input("Your cute cat's name: ")
+yourFavoritePasstime = input("Your favorite past time: ")
+yourFavoriteIsScholar = input("Your favorite Islamic Scholar: ")
